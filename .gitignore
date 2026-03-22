@@ -6,3 +6,6 @@
 mlflow.db
 mlflow-artifacts/
 mlruns/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
